@@ -1,0 +1,22 @@
+{
+  "name": "reawiki",
+  "version": "1.0.0",
+  "description": "This app reads a given wiki page",
+  "main": "request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmshiyas/getwikidata_node.git"
+  },
+  "author": "Shiyas Cholamukhath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmshiyas/getwikidata_node/issues"
+  },
+  "homepage": "https://github.com/cmshiyas/getwikidata_node#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
